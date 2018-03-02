@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	}
+
+
+video {
+	position: absolute;
+	left: 0;
+	top: 0;
+	min-width: 100%;
+	min-height: 100%;
+	z-index: -1000;
+	
+	}
+h1 {
+	color: #CD7E7E;
+	text-align: center;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial;
+	}
+p {
+	color: #000;
+	text-align: center;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial;
+
+	}
+
+a {
+	color: #fff;
+	text-align: center;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial;
+
+	}
+
+
+a.hover {
+	color: #CD7E7E;
+	}
